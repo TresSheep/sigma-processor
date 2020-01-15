@@ -219,6 +219,8 @@ Wire Wire Line
 Wire Wire Line
 	2650 2350 2400 2350
 Wire Wire Line
+	2400 2350 2400 1400
+Wire Wire Line
 	2400 1400 6300 1400
 Wire Wire Line
 	6300 1400 6300 2350
@@ -914,8 +916,4 @@ Wire Wire Line
 	6650 8450 6650 9750
 Wire Wire Line
 	6650 9750 6250 9750
-Text Notes 4650 550  0    50   ~ 0
-Register A
-Wire Wire Line
-	2400 2350 2400 1400
 $EndSCHEMATC
