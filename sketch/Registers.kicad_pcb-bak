@@ -874,7 +874,7 @@
   )
 
   (module Socket_Strips:Socket_Strip_Angled_1x09_Pitch2.54mm (layer F.Cu) (tedit 58CD5446) (tstamp 5E330D23)
-    (at 175.26 105.41)
+    (at 177.8 69.85)
     (descr "Through hole angled socket strip, 1x09, 2.54mm pitch, 8.51mm socket length, single row")
     (tags "Through hole angled socket strip THT 1x09 2.54mm single row")
     (path /5E600EDA)
@@ -1371,7 +1371,7 @@
   )
 
   (module Housings_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 59C78D6B) (tstamp 5E330DEB)
-    (at 92.71 119.38)
+    (at 109.895001 90.805001)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /5E27FAA7)
@@ -1447,7 +1447,7 @@
   )
 
   (module Housings_DIP:DIP-20_W7.62mm (layer F.Cu) (tedit 59C78D6B) (tstamp 5E330E13)
-    (at 92.71 147.32)
+    (at 131.595001 63.805001)
     (descr "20-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)")
     (tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
     (path /5E2A091D)

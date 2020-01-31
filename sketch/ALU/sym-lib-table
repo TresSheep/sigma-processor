@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ALU-rescue)(type Legacy)(uri ${KIPRJMOD}/ALU-rescue.lib)(options "")(descr ""))
+  (lib (name alu_74)(type Legacy)(uri ${KIPRJMOD}/alu_74.lib)(options "")(descr ""))
+)
