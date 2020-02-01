@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name additional_components)(type Legacy)(uri ${KIPRJMOD}/additional_components.lib)(options "")(descr ""))
+  (lib (name additional_74)(type Legacy)(uri C:/sigma-processor/sketch/additional_74.lib)(options "")(descr ""))
 )
